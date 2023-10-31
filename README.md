@@ -28,7 +28,7 @@
     <a href = "https://www.linkedin.com/in/user/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/user/](https://instagram.com/felipemendes_oficial?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)https://instagram.com/felipemendes_oficial?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr">
+    <a href = "[https://www.instagram.com/user/](https://instagram.com/felipemendes_oficial?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)https://instagram.com/felipemendes_oficial?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr](https://www.instagram.com/felipemendes_oficial/)">
       <img width="25" src="instagram.png">
     </a>
 </div>
